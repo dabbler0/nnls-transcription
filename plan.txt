@@ -1,0 +1,6 @@
+THE PLAN
+  1. Audio capture.
+  2. Real-time FFT graph.
+  3. Training vectors -- simple average.
+  4. Non-negative least squares analysis.
+  5. Transcription.
